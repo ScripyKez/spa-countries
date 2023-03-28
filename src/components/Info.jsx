@@ -148,9 +148,7 @@ export const Info = props => {
           ) : (
             <TagGroup>
               {neighbors.map(b => (
-                <Tag key={b} onClick={() => navigate(`/country/${b}`)}>
-                  {b}
-                </Tag>
+                <Tag key={b} onClick={() => navigate(`/country/${b}`)} />
               ))}
             </TagGroup>
           )}

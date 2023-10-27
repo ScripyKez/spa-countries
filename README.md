@@ -4,7 +4,7 @@
 
 ## Использование стороннего апи для получение информации о странах
 
-React, Light/Dark themes, React-router-dom
+React, Light/Dark themes, React-router-dom, style-components
 
 ### `npm start`
 
